@@ -1,0 +1,83 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+div {
+    width: 300px;
+    height: 530px;
+    background-color: hsl(216, 50%, 16%);
+    margin:auto;
+    margin-top: 120px;
+    border-radius: 3%;
+}
+
+.main-img {
+    width: 260px;
+    height: 260px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 3%;
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+    font-family: 'Outfit', sans-serif;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+p{
+    font-family: 'Outfit', sans-serif;
+    color: hsl(215, 51%, 70%);
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.eth-para {
+    position:absolute;
+}
+
+.eth-para-isolate {
+    padding-left: 20px;
+    font-size: 14px;
+    color: hsl(178, 100%, 50%);
+}
+
+.clock {
+    padding-left: 190px;
+    font-size: 14px;
+}
+
+.clock-img {
+    padding-left: 170px;
+}
+
+hr {
+    border-top: none;
+    border-radius: 50%;
+    width: 260px;
+    border-color: hsl(215, 29%, 47%);
+    
+}
+
+.avatar-img {
+    width: 25px;
+    height: 25px;
+    border: 1px solid #fff;
+    border-radius: 100%;
+}
+
+.avatar-img-para {
+    margin-top: 10px;
+}
+
+.avatar-para {
+    padding-left: 40px;
+    font-size: 14px;
+}
+
+span {
+    color:#fff;
+    font-size: 14px;
+}
